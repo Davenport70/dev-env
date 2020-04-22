@@ -1,0 +1,3 @@
+source 'https://supermarket.chef.io'
+
+cookbook "cookbook-environment", git: "git@github.com:Davenport70/cookbook-environment.git"
