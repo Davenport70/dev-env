@@ -10,9 +10,6 @@
     "subnet_id": "subnet-0e9b6138ff1ce18f2",
     "region": "eu-west-1",
 
-    "ssh_keypair_name": "zack-eng54",
-    "ssh_private_key_file": "~/.ssh/zack-eng54.pem",
-
     "associate_public_ip_address": true,
 
 
