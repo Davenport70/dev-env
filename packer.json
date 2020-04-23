@@ -32,7 +32,7 @@
   "provisioners": [
     {
       "type": "chef-solo",
-      "cookbook_paths": ["./berks-cookbooks"],
+      "cookbook_paths": ["./Cookbooks"],
       "run_list": ["cookbook-environment::default"]
     },
     {
